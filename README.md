@@ -22,7 +22,7 @@
 - **The Tech:** Llama 3 (Groq), YouTube/TikTok APIs, Recharts.
 - **The Impact:** Quantifies niche viability via a proprietary "Opportunity Score" algorithm.
 
-### 📈 [ViralScore AI](https://github.com/Marianooss/viralscore)
+### 📈 [ViralScore AI](https://github.com/Marianooss/Viral-Score)
 **Predictive Content Analytics** with smart feedback loops.
 - **The Tech:** NLP Sentiment Analysis, Supabase, PostgreSQL Time-series.
 - **The Impact:** Minimizes production risk by forecasting video retention and engagement.
