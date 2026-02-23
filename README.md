@@ -17,7 +17,7 @@
 - **The Tech:** Agentic Orchestration (Gemini 2.0), Firebase, Spectral Analysis.
 - **The Impact:** Reduces time-to-content from days to minutes with broadcast-quality output.
 
-### 📡 [Sales Radar](https://github.com/Marianooss/sales-radar)
+### 📡 [Sales Radar](https://github.com/Marianooss/Sales-Radar)
 **Real-Time Market Intelligence** using live social APIs.
 - **The Tech:** Llama 3 (Groq), YouTube/TikTok APIs, Recharts.
 - **The Impact:** Quantifies niche viability via a proprietary "Opportunity Score" algorithm.
