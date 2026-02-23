@@ -7,7 +7,7 @@
 
 ## 🚀 Featured Projects (Proof of Concept)
 
-### 📊 [BiOss Executive Intelligence](https://github.com/Marianooss/bioss)
+### 📊 [BiOss Executive Intelligence](https://github.com/Marianooss/Bioss-BI-Engine)
 **Zero-Error BI Engine** for high-stakes B2B decisions. 
 - **The Tech:** Next.js 15, Web Workers (60 FPS @ 300k records), TypeScript.
 - **The Impact:** Eliminates revenue leakage via granular churn detection and SWOT automation.
